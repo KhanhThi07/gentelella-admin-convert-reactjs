@@ -28,7 +28,10 @@ export default function login() {
           />
         </div>
         <div className={cx("form-action")}>
-          <Link to="/" className={cx("form-btn", "form-btn__signin")}>
+          <Link
+            to="/gentelella-admin-convert-reactjs"
+            className={cx("form-btn", "form-btn__signin")}
+          >
             Login
           </Link>
           <p>Lost your password?</p>
