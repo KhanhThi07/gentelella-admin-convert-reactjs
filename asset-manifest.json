@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/gentelella-admin-convert-reactjs/static/css/main.e5511b9d.css",
-    "main.js": "/gentelella-admin-convert-reactjs/static/js/main.b5ec6cb8.js",
-    "static/css/613.532cccae.chunk.css": "/gentelella-admin-convert-reactjs/static/css/613.532cccae.chunk.css",
+    "main.js": "/gentelella-admin-convert-reactjs/static/js/main.b51707cc.js",
+    "static/css/613.0c9fdfab.chunk.css": "/gentelella-admin-convert-reactjs/static/css/613.0c9fdfab.chunk.css",
     "static/js/613.5f5b4346.chunk.js": "/gentelella-admin-convert-reactjs/static/js/613.5f5b4346.chunk.js",
     "static/css/918.7ecb55e2.chunk.css": "/gentelella-admin-convert-reactjs/static/css/918.7ecb55e2.chunk.css",
     "static/js/918.c379791c.chunk.js": "/gentelella-admin-convert-reactjs/static/js/918.c379791c.chunk.js",
@@ -12,8 +12,8 @@
     "static/js/602.7c52dfd8.chunk.js": "/gentelella-admin-convert-reactjs/static/js/602.7c52dfd8.chunk.js",
     "index.html": "/gentelella-admin-convert-reactjs/index.html",
     "main.e5511b9d.css.map": "/gentelella-admin-convert-reactjs/static/css/main.e5511b9d.css.map",
-    "main.b5ec6cb8.js.map": "/gentelella-admin-convert-reactjs/static/js/main.b5ec6cb8.js.map",
-    "613.532cccae.chunk.css.map": "/gentelella-admin-convert-reactjs/static/css/613.532cccae.chunk.css.map",
+    "main.b51707cc.js.map": "/gentelella-admin-convert-reactjs/static/js/main.b51707cc.js.map",
+    "613.0c9fdfab.chunk.css.map": "/gentelella-admin-convert-reactjs/static/css/613.0c9fdfab.chunk.css.map",
     "613.5f5b4346.chunk.js.map": "/gentelella-admin-convert-reactjs/static/js/613.5f5b4346.chunk.js.map",
     "918.7ecb55e2.chunk.css.map": "/gentelella-admin-convert-reactjs/static/css/918.7ecb55e2.chunk.css.map",
     "918.c379791c.chunk.js.map": "/gentelella-admin-convert-reactjs/static/js/918.c379791c.chunk.js.map",
@@ -24,6 +24,6 @@
   },
   "entrypoints": [
     "static/css/main.e5511b9d.css",
-    "static/js/main.b5ec6cb8.js"
+    "static/js/main.b51707cc.js"
   ]
 }
