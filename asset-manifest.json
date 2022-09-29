@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/gentelella-admin-convert-reactjs/static/css/main.e5511b9d.css",
+    "main.js": "/gentelella-admin-convert-reactjs/static/js/main.b5ec6cb8.js",
+    "static/css/613.532cccae.chunk.css": "/gentelella-admin-convert-reactjs/static/css/613.532cccae.chunk.css",
+    "static/js/613.5f5b4346.chunk.js": "/gentelella-admin-convert-reactjs/static/js/613.5f5b4346.chunk.js",
+    "static/css/918.7ecb55e2.chunk.css": "/gentelella-admin-convert-reactjs/static/css/918.7ecb55e2.chunk.css",
+    "static/js/918.c379791c.chunk.js": "/gentelella-admin-convert-reactjs/static/js/918.c379791c.chunk.js",
+    "static/css/561.7ecb55e2.chunk.css": "/gentelella-admin-convert-reactjs/static/css/561.7ecb55e2.chunk.css",
+    "static/js/561.1cb35e02.chunk.js": "/gentelella-admin-convert-reactjs/static/js/561.1cb35e02.chunk.js",
+    "static/js/926.fb9c1066.chunk.js": "/gentelella-admin-convert-reactjs/static/js/926.fb9c1066.chunk.js",
+    "static/js/602.7c52dfd8.chunk.js": "/gentelella-admin-convert-reactjs/static/js/602.7c52dfd8.chunk.js",
+    "index.html": "/gentelella-admin-convert-reactjs/index.html",
+    "main.e5511b9d.css.map": "/gentelella-admin-convert-reactjs/static/css/main.e5511b9d.css.map",
+    "main.b5ec6cb8.js.map": "/gentelella-admin-convert-reactjs/static/js/main.b5ec6cb8.js.map",
+    "613.532cccae.chunk.css.map": "/gentelella-admin-convert-reactjs/static/css/613.532cccae.chunk.css.map",
+    "613.5f5b4346.chunk.js.map": "/gentelella-admin-convert-reactjs/static/js/613.5f5b4346.chunk.js.map",
+    "918.7ecb55e2.chunk.css.map": "/gentelella-admin-convert-reactjs/static/css/918.7ecb55e2.chunk.css.map",
+    "918.c379791c.chunk.js.map": "/gentelella-admin-convert-reactjs/static/js/918.c379791c.chunk.js.map",
+    "561.7ecb55e2.chunk.css.map": "/gentelella-admin-convert-reactjs/static/css/561.7ecb55e2.chunk.css.map",
+    "561.1cb35e02.chunk.js.map": "/gentelella-admin-convert-reactjs/static/js/561.1cb35e02.chunk.js.map",
+    "926.fb9c1066.chunk.js.map": "/gentelella-admin-convert-reactjs/static/js/926.fb9c1066.chunk.js.map",
+    "602.7c52dfd8.chunk.js.map": "/gentelella-admin-convert-reactjs/static/js/602.7c52dfd8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5511b9d.css",
+    "static/js/main.b5ec6cb8.js"
+  ]
+}
