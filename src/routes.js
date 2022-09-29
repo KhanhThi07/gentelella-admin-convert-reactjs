@@ -7,7 +7,7 @@ const Login = React.lazy(() => import("./components/views/Auth/Login"));
 
 export const appRoutes = [
   {
-    path: "/",
+    path: "/gentelella-admin-convert-reactjs",
     component: DefaultLayout,
   },
   {

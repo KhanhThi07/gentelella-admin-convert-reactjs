@@ -34,7 +34,10 @@ export default function App() {
         </Routes> */}
         <React.Suspense fallback={<h6>Loading...</h6>}>
           <Routes>
-            <Route path={"/"} element={<DefaultLayout />} />
+            <Route
+              path={"/gentelella-admin-convert-reactjs"}
+              element={<DefaultLayout />}
+            />
             <Route path={"/login"} element={<Login />} />
             <Route path={"/register"} element={<Register />} />
           </Routes>
